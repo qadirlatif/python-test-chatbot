@@ -1,0 +1,13 @@
+headache:
+please tell us,
+Are you feeling Cough ?,
+Are you feeling Fewer ?.
+
+eyespain:
+please tell us,
+do you have not sleep many day?, write yes or nope.
+
+
+
+
+

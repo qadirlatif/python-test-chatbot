@@ -1,0 +1,14 @@
+fewer and cough:
+you should take panadol and inhaler, also you should sleep of 2 hours.
+
+fewer:
+you should take panadol.
+
+nope:
+please take eyedrop.
+
+yes:
+please complete you sleep time period.
+
+
+
